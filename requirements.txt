@@ -1,0 +1,9 @@
+mcp-use
+mcp
+langchain
+langchain-ollama
+langchain-google-genai
+langchain-openai
+python-dotenv
+pyserial
+paho-mqtt
